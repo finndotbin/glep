@@ -1,5 +1,5 @@
 name = "glep"
-version = "1.0.0"
+version = "0.1.0"
 description = "A grep-like CLI tool written in Gleam."
 licences = ["MIT"]
 repository = { type = "github", user = "finndotbin", repo = "glep" }
